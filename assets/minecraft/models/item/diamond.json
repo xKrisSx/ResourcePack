@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond"
+  },
+  "overrides": [
+  	{
+      "predicate": {
+        "custom_model_data": 19001
+      },
+      "model": "minecraft:items/miedz"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 19002
+      },
+      "model": "minecraft:items/srebro"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 19003
+      },
+      "model": "minecraft:items/zloto"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 19004
+      },
+      "model": "minecraft:items/szafir"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 19005
+      },
+      "model": "minecraft:items/rubin"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 19006
+      },
+      "model": "minecraft:items/szmaragd"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 19007
+      },
+      "model": "minecraft:items/diament"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 19008
+      },
+      "model": "minecraft:items/krysztal-ostatecznosci"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 19009
+      },
+      "model": "minecraft:items/smoczy-krysztal"
+    }
+  ]
+}

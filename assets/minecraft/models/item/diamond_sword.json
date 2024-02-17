@@ -1,0 +1,260 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "overrides": [
+  	{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:weapons/swords/miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:weapons/swords/dlugi-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:weapons/swords/sejmitar"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:weapons/swords/wilczy-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:weapons/swords/szeroki-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:weapons/swords/srebrny-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:weapons/swords/miecz-pelni-ksiezyca"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:weapons/swords/wodny-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:weapons/swords/przeklety-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:weapons/swords/polksiezycowy-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:weapons/swords/nimfa"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "minecraft:weapons/swords/miecz-egzorcysty"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:weapons/swords/niebianski-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "minecraft:weapons/swords/zatruty-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "minecraft:weapons/swords/zwiastun-brzasku"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "minecraft:weapons/swords/zwiastun-nocy"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "minecraft:weapons/swords/ostrze-swiatla"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "minecraft:weapons/swords/krysztalowy-miecz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "minecraft:weapons/swords/ostrze-zaglady"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "minecraft:weapons/swords/zadlo-piekiel"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "minecraft:weapons/swords/cesarskie-ostrze-9cieni"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 901
+      },
+      "model": "minecraft:item/baron"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 902
+      },
+      "model": "minecraft:weapons/special/azakana"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 903
+      },
+      "model": "minecraft:weapons/special/the_sword_of_truth"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 904
+      },
+      "model": "minecraft:weapons/special/the_sword_of_dreams"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 905
+      },
+      "model": "minecraft:weapons/special/ostrze_monarchy_cieni"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "minecraft:weapons/2hand/glewia"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "minecraft:weapons/2hand/wlocznia"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "minecraft:weapons/2hand/rib"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "minecraft:weapons/2hand/tsunami"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "minecraft:weapons/2hand/przeklete-ostrze"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "minecraft:weapons/2hand/magnetyczne-ostrze"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "minecraft:weapons/2hand/magnetyczne-ostrze"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "minecraft:weapons/2hand/krwawy-szpon"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "minecraft:weapons/2hand/zlodziej-dusz"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "minecraft:weapons/2hand/miecz-zalu"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1018
+      },
+      "model": "minecraft:weapons/2hand/lodowa-smierc"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1019
+      },
+      "model": "minecraft:weapons/2hand/niszczyciel"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1020
+      },
+      "model": "minecraft:weapons/2hand/smoczy-pogromca"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1021
+      },
+      "model": "minecraft:weapons/2hand/krysztalowy-topor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1022
+      },
+      "model": "minecraft:weapons/2hand/tysiacbojca"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 1901
+      },
+      "model": "minecraft:weapons/special/zniwiarz"
+    }
+  ]
+}

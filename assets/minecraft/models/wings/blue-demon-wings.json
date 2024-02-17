@@ -1,0 +1,18 @@
+{
+	"parent": "minecraft:item/handheld",
+	"texture_size": [512, 512],
+	"textures": {
+		"layer0": "minecraft:wings/blue-demon-wings"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [70, 0, 0],
+			"translation": [-6.25, -7, 14],
+			"scale": [4, 4, 1.75]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

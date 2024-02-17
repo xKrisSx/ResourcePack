@@ -1,0 +1,116 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cod"
+  },
+  "overrides": [
+  	{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:fish/ryba-mandaryna"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:fish/karp"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:fish/okon"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:fish/pstrag"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:fish/losos"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:fish/makrela"
+    },
+	  	{
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:fish/amur"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:fish/sum"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:fish/pstrag-rzeczny"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:fish/szczupak"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:fish/karas"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:fish/wegorz"
+    },
+	  	{
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:fish/karas-srebrzysty"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:fish/czerwony-sum"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "minecraft:fish/shiri"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:fish/tenchi"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "minecraft:fish/ryba-lotosu"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "minecraft:fish/karas-zlocisty"
+    }
+  ]
+}
