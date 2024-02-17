@@ -1,22 +1,21 @@
-name: Create Archive
+name: Create Zip File
+
 on: [push]
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v2
-      - name: pull latest and remove old file from repo
+
+      - name: Create Zip
         run: |
-          git pull
-          rm -f pack.zip
-      - name: Archive Release
-        uses: thedoctor0/zip-release@master
+          zip -r pack.zip .
+
+      - name: Save Zip artifact
+        uses: actions/upload-artifact@v2
         with:
-          filename: 'pack.zip'
-          exclusions: '*.git* /*node_modules/* .editorconfig /.idea/* *.iml'
-      - name: push changes to remote
-        run: |
-          git add -A
-          git commit -m "updated pack.zip"
-          git push --force
+          name: pack
+          path: pack.zip
