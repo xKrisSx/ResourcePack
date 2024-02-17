@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/feather"
+  },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "sebxter:cosmetic/wings_2/wings_1"},
+		{"predicate": {"custom_model_data":2}, "model": "sebxter:cosmetic/wings_2/wings_2"},
+		{"predicate": {"custom_model_data":3}, "model": "sebxter:cosmetic/wings_2/wings_3"},
+		{"predicate": {"custom_model_data":4}, "model": "sebxter:cosmetic/wings_2/wings_4"},
+		{"predicate": {"custom_model_data":5}, "model": "sebxter:cosmetic/wings_2/wings_5"},
+		{"predicate": {"custom_model_data":6}, "model": "sebxter:cosmetic/wings_2/wings_6"},
+		{"predicate": {"custom_model_data":7}, "model": "sebxter:cosmetic/wings_2/wings_7"},
+		{"predicate": {"custom_model_data":8}, "model": "sebxter:cosmetic/wings_2/wings_8"},
+		{"predicate": {"custom_model_data":9}, "model": "sebxter:cosmetic/wings_2/wings_9"},
+		{"predicate": {"custom_model_data":10}, "model": "sebxter:cosmetic/wings_2/wings_10"},
+		{"predicate": {"custom_model_data":11}, "model": "sebxter:cosmetic/wings_2/wings_11"},
+		{"predicate": {"custom_model_data":12}, "model": "sebxter:cosmetic/wings_2/wings_12"},
+		{"predicate": {"custom_model_data":13}, "model": "sebxter:cosmetic/wings_2/wings_13"},
+		{"predicate": {"custom_model_data":14}, "model": "sebxter:cosmetic/wings_2/wings_14"},
+		{"predicate": {"custom_model_data":15}, "model": "sebxter:cosmetic/wings_2/wings_15"},
+		{"predicate": {"custom_model_data":16}, "model": "sebxter:cosmetic/wings_2/wings_16"},
+		{"predicate": {"custom_model_data":17}, "model": "sebxter:cosmetic/wings_2/wings_17"},
+		{"predicate": {"custom_model_data":18}, "model": "sebxter:cosmetic/wings_2/wings_18"},
+		{"predicate": {"custom_model_data":19}, "model": "sebxter:cosmetic/wings_2/wings_19"},
+		{"predicate": {"custom_model_data":20}, "model": "sebxter:cosmetic/wings_2/wings_20"},
+		{"predicate": {"custom_model_data":21}, "model": "sebxter:cosmetic/wings_2/wings_21"},
+		{"predicate": {"custom_model_data":22}, "model": "sebxter:cosmetic/wings_2/wings_22"},
+		{"predicate": {"custom_model_data":23}, "model": "sebxter:cosmetic/wings_2/wings_23"},
+		{"predicate": {"custom_model_data":24}, "model": "sebxter:cosmetic/wings_2/wings_24"},
+		{"predicate": {"custom_model_data":25}, "model": "sebxter:cosmetic/wings_2/wings_25"}
+	]
+}

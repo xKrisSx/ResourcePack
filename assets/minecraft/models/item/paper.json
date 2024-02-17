@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+  	{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:slots/empty-kolczyki"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:slots/empty-naszyjnik"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:slots/empty-tarcza"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:slots/empty-bransoleta"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:slots/empty-akwamaryn"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:slots/empty-ametyst"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:slots/empty-granat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:slots/empty-perydot"
+    }
+  ]
+}

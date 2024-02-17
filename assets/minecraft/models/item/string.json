@@ -1,0 +1,116 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/string"
+  },
+  "overrides": [
+  	{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:accessories/miedziany-naszyjnik"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:accessories/srebrny-naszyjnik"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:accessories/zloty-naszyjnik"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:accessories/szafirowy-naszyjnik"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:accessories/rubinowy-naszyjnik"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:accessories/szmaragdowy-naszyjnik"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:accessories/diamentowy-naszyjnik"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:accessories/smoczy-naszyjnik"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:accessories/naszyjnik-duszy"
+    },
+      	{
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:accessories/miedziana-bransoleta"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:accessories/srebrna-bransoleta"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:accessories/zlota-bransoleta"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:accessories/szafirowa-bransoleta"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "minecraft:accessories/rubinowa-bransoleta"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:accessories/szmaragdowa-bransoleta"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "minecraft:accessories/diamentowa-bransoleta"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "minecraft:accessories/smocza-bransoleta"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "minecraft:accessories/bransoleta-duszy"
+    }
+  ]
+}

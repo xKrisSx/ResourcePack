@@ -1,0 +1,18 @@
+{
+	"parent": "minecraft:item/handheld",
+	"texture_size": [64, 64],
+	"textures": {
+		"layer0": "minecraft:wings/skrzydla-fenixa"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [70, 0, 0],
+			"translation": [-6.25, -7, 10],
+			"scale": [3, 3, 1.75]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

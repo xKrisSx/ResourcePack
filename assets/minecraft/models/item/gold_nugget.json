@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gold_nugget"
+  },
+  "overrides": [
+  	{
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:accessories/miedziane-kolczyki"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:accessories/srebrne-kolczyki"
+    },
+  	{
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:accessories/zlote-kolczyki"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:accessories/szafirowe-kolczyki"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:accessories/rubinowe-kolczyki"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:accessories/szmaragdowe-kolczyki"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:accessories/diamentowe-kolczyki"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:accessories/smocze-kolczyki"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:accessories/kolczyki-duszy"
+    }
+  ]
+}

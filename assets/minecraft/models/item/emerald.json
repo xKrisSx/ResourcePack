@@ -1,0 +1,176 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/emerald"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "minecraft:alchemy/mat_granat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:alchemy/mat_perydot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "minecraft:alchemy/mat_akwamaryn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "minecraft:alchemy/mat_ametyst"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "minecraft:alchemy/prz_granat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "minecraft:alchemy/prz_perydot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "minecraft:alchemy/prz_akwamaryn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "minecraft:alchemy/prz_ametyst"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "minecraft:alchemy/lsn_granat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "minecraft:alchemy/lsn_perydot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "minecraft:alchemy/lsn_akwamaryn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "minecraft:alchemy/lsn_ametyst"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "minecraft:alchemy/szl_granat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "minecraft:alchemy/szl_perydot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "minecraft:alchemy/szl_akwamaryn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "minecraft:alchemy/szl_ametyst"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "minecraft:alchemy/per_granat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "minecraft:alchemy/per_perydot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "minecraft:alchemy/per_akwamaryn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "minecraft:alchemy/per_ametyst"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "minecraft:alchemy/ant_granat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "minecraft:alchemy/ant_perydot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "minecraft:alchemy/ant_akwamaryn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "minecraft:alchemy/ant_ametyst"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "minecraft:alchemy/nie_granat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "minecraft:alchemy/nie_perydot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "minecraft:alchemy/nie_akwamaryn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "minecraft:alchemy/nie_ametyst"
+        }
+    ]
+}
