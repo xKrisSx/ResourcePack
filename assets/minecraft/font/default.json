@@ -2,21 +2,21 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:textures/symbols/administrator.png",
+      "file": "minecraft:symbols/administrator.png",
       "ascent": 8,
       "height": 8,
       "chars": [""]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:textures/symbols/moderator.png",
+      "file": "minecraft:symbols/moderator.png",
       "ascent": 8,
       "height": 8,
       "chars": [""]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:textures/symbols/pomocnik.png",
+      "file": "minecraft:symbols/pomocnik.png",
       "ascent": 8,
       "height": 8,
       "chars": [""]
