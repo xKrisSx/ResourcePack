@@ -1,25 +1,74 @@
 {
   "providers": [
-    {
-      "type": "bitmap",
-      "file": "minecraft:symbols/administrator.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": [""]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:symbols/moderator.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": [""]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:symbols/pomocnik.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": [""]
-    }
+        {
+            "type": "bitmap",
+            "file": "minecraft:symbols/administrator.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": ["🟥"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:symbols/moderator.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": ["🟩"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:symbols/pomocnik.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": ["🟦"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:symbols/svip.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": ["🟧"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:symbols/vip.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": ["🟨"]
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:symbols/administrator.png",
+            "ascent": 14,
+            "height": 24,
+            "chars": ["🟤"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:symbols/moderator.png",
+            "ascent": 14,
+            "height": 24,
+            "chars": ["🟢"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:symbols/pomocnik.png",
+            "ascent": 14,
+            "height": 24,
+            "chars": ["🟣"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:symbols/svip.png",
+            "ascent": 14,
+            "height": 24,
+            "chars": ["🟠"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:symbols/vip.png",
+            "ascent": 14,
+            "height": 24,
+            "chars": ["🟡"]
+        }
   ]
 }
